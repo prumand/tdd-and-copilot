@@ -19,7 +19,7 @@
 
 ## Introduction
 
-Co-Pilot is a tool that uses artificial intelligence to assist developers in writing code. It can suggest code snippets, refactor code, and generate tests based on natural language descriptions. Co-Pilot can work with any programming language and framework, and can integrate with popular code editors. 
+
 
 # Notes
 1. first try writing the introduction, promted vs code
@@ -35,3 +35,9 @@ Co-Pilot is a tool that uses artificial intelligence to assist developers in wri
     In this meetup, we will explore how TDD and Co-Pilot can work together to improve the quality and efficiency of software development. We will see some examples of how Co-Pilot can generate tests based on TDD principles, and how TDD can guide Co-Pilot to produce better code. We will also discuss some of the benefits and challenges of using these tools, and share some tips and best practices for getting the most out of them.
     ```
     2. First paragraph with VS Code and Co-Pilot
+    ```
+    [git: 0.0.2]
+    Co-Pilot is a tool that uses artificial intelligence to assist developers in writing code. It can suggest code snippets, refactor code, and generate tests based on natural language descriptions. Co-Pilot can work with any programming language and framework, and can integrate with popular code editors. It's conviend to use and acts as lens on you code repository.
+
+    With this context it cann suggest the correct test requirements (e.g. class, or function names, readme). Furthermore the technical setup (like mocking) is highly assisted. It seems co-pilot assists is a very good feed for testing.
+    ```
