@@ -1,5 +1,9 @@
 # Bootstrap LLM
 
+Setup with: https://github.com/tloen/alpaca-lora
+* Requirements: GPU
+* Setup with Dev-Containers
+
 ## Change Log
 
 
