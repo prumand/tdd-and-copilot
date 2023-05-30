@@ -1,7 +1,7 @@
 # TDD and Co-Pilot, the sweet spot
 
 1. [Introduction](#introduction)
-2. [Project Outline](#project-outline)
+2. [Product Outline](#product-outline)
 2. [Changelog](#changelog)
 
 ## Introduction
